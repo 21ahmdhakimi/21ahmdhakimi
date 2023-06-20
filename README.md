@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Final Year Project (ONGOING) (Andriod Studio Java, Firebase)</b>
-  - [Developing Mobile Application of Food Recommender](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Developing Mobile Application of Food Recommender](https://github.com/21ahmdhakimi/android_recommender)
 - <b>Dynamic Web Application Development (HTML, CSS, Javascript, PHP)</b>
   - [Portfolio + Calculator Website](https://github.com/21ahmdhakimi/dynamic_portfolio) </b></i>
 
