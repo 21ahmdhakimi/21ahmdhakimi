@@ -5,7 +5,7 @@
 - <b>Final Year Project (ONGOING) (Andriod Studio Java, Firebase)</b>
   - [Developing Mobile Application of Food Recommender](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Dynamic Web Application Development (HTML, CSS, Javascript, PHP)</b>
-  - [Portfolio + Calculator Website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b></i>
+  - [Portfolio + Calculator Website](https://github.com/21ahmdhakimi/dynamic_portfolio) </b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
