@@ -2,18 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Final Year Project (ONGOING)(Andriod Studio Java, Firebase)</b>
+- <b>Final Year Project (ONGOING) (Andriod Studio Java, Firebase)</b>
   - [Developing Mobile Application of Food Recommender](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Dynamic Web Application Development (HTML, CSS, Javascript, PHP)</b>
+  - [Portfolio + Calculator Website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/tuanahmadhakimi
-
+- <b> Linkedin : </b> https://linkedin.com/in/tuanahmadhakimi
+- <b> Gmail : </b> ahmadhakimi.tuan@gmail.com
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
