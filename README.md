@@ -3,9 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Final Year Project (ONGOING) (Andriod Studio Java, Firebase)</b>
-  - [Developing Mobile Application of Food Recommender](https://github.com/21ahmdhakimi/android_recommender)
+  - [Developing Mobile Application of Food Recommender (2023) ](https://github.com/21ahmdhakimi/android_recommender)
 - <b>Dynamic Web Application Development (HTML, CSS, Javascript, PHP)</b>
-  - [Portfolio + Calculator Website](https://github.com/21ahmdhakimi/dynamic_portfolio) </b></i>
+  - [Portfolio + Calculator Website (2022)](https://github.com/21ahmdhakimi/dynamic_portfolio) </b>
+  - [Pet Shop Management System (2022)](https://github.com/Qal22/Petshop) </b></i>
+- <b>Image Processing</b>
 
 <h2> 🤳 Connect with me:</h2>
 
