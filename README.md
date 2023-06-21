@@ -7,7 +7,8 @@
 - <b>Dynamic Web Application Development (HTML, CSS, Javascript, PHP)</b>
   - [Portfolio + Calculator Website (2022)](https://github.com/21ahmdhakimi/dynamic_portfolio) </b>
   - [Pet Shop Management System (2022)](https://github.com/Qal22/Petshop) </b></i>
-- <b>Image Processing</b>
+- <b>Image Processing (MATLAB) </b>
+- <b>Enterprise Programming (Java) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
